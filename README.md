@@ -3,15 +3,11 @@
 # Djebril EL FEDDI  
 **CS Student @ Aix-Marseille University · Love Systems, Automation & AI**
 
-[![Site Web](https://img.shields.io/badge/Portfolio-djebrilelfeddi.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](http://djebrilelfeddi.com/)  
+[![Site Web](https://img.shields.io/badge/Portfolio-1CC959?style=for-the-badge)](http://djebrilelfeddi.com/)  
 
 </div>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
@@ -26,11 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-</td>
-</tr>
-</table>
-
-</div>
+</p>
 
 ---
 
