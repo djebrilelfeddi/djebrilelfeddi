@@ -1,13 +1,17 @@
 <div align="center">
 
-# Djebril EL FEDDI
+# Djebril EL FEDDI  
+**CS Student @ Aix-Marseille University · Love Systems, Automation & AI**
 
-**CS Student** · Aix-Marseille University · [djebrilelfeddi.com](http://djebrilelfeddi.com/)
+[![Site Web](https://img.shields.io/badge/Portfolio-djebrilelfeddi.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](http://djebrilelfeddi.com/)  
 
-Building real-world tools — from raw sockets to AI systems.
+</div>
 
-<br/>
+<div align="center">
 
+<table>
+<tr>
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
@@ -22,9 +26,16 @@ Building real-world tools — from raw sockets to AI systems.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+</td>
+</tr>
+</table>
 
-<br/>
+</div>
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djebrilelfeddi&theme=transparent)
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djebrilelfeddi&theme=transparent" alt="Profile Summary"/>
 
 </div>
