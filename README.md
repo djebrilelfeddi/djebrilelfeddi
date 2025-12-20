@@ -27,7 +27,6 @@
 ---
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djebrilelfeddi&theme=transparent" alt="Profile Summary"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djebrilelfeddi&theme=transparent" height="180" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djebrilelfeddi&theme=vue&show_icons=true&hide_border=true&layout=compact" height="180" alt="Languages used (by File Size)" />
 </div>
