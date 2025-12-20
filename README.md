@@ -19,8 +19,6 @@
 # Djebril EL FEDDI  
 **CS Student @ Aix-Marseille University · Love Systems, Automation & AI**
 
-[![Site Web](https://img.shields.io/badge/Portfolio-1CC959?style=for-the-badge)](http://djebrilelfeddi.com/)  
-
 </div>
 
 <p align="center">
