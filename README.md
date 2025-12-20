@@ -12,9 +12,7 @@
 </table>
 </section>
 </header>  
-<section>  
 <br clear="all"/>
-<br>
 
 <div align="center">
 
