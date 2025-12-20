@@ -1,3 +1,21 @@
+<table align="left">
+  <tr >
+    <th>
+      <img align="center" width="24" height="24" src="https://djebrilelfeddi.com/icon.png" alt="globe--v1"/>
+      <a href="https://www.djebrilelfeddi.com/" />  Portfolio  
+    </th> 
+    <th>
+   <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
+  <a href="https://www.linkedin.com/in/djebrilelfeddi/" />   LinkedIn
+  </th>
+  </tr>
+</table>
+</section>
+</header>  
+<section>  
+<br clear="all"/>
+<br>
+
 <div align="center">
 
 # Djebril EL FEDDI  
@@ -14,6 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
