@@ -43,7 +43,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="70%">
       <a href="https://github.com/djebrilelfeddi">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=djebrilelfeddi&theme=github-compact&days=15&hide_border=true&height=500&point=fc4e03&line=ff7700&custom_title=My%20Contributions%20(15%20days)&area_color=ff7700" alt="Profile Summary" />
       </a>
