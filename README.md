@@ -48,10 +48,5 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=djebrilelfeddi&theme=github-compact&days=15&hide_border=true&height=500&point=fc4e03&line=ff7700&custom_title=My%20Contributions%20(15%20days)&area_color=ff7700" alt="Profile Summary" />
       </a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/djebrilelfeddi">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djebrilelfeddi&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-      </a>
-    </td>
   </tr>
 </table>
