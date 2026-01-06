@@ -41,6 +41,7 @@
 
 ---
 
+<!--
 <table align="center">
   <tr>
     <td align="center" width="70%">
@@ -49,4 +50,4 @@
       </a>
     </td>
   </tr>
-</table>
+</table>-->
